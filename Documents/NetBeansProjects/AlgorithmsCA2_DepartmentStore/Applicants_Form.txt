@@ -1,0 +1,47 @@
+First name,Last name,Gender,Email,Salary,Department,Position,Job title,Company
+Kate,Summer,Female,ksummer@grandcentral.com,20000.00,IT Development,senior,QA,Grand Central Department Store
+Ken,Winter,Male,kwinter@grandcentral.com,15000.00,IT Development,middle,Backend Developer,Grand Central Department Store
+James,Anderson,Male,janderson@grandcentral.com,80000.00,Sales,management,Manager,Grand Central Department Store
+Sarah,Johnson,Female,sjohnson@grandcentral.com,3500.50,HR,management,Assistant Manager,Grand Central Department Store
+John,Smith,Male,jsmith@grandcentral.com,48000.00,Finance,management,Senior Manager,Grand Central Department Store
+Emily,Brown,Female,ebrown@grandcentral.com,2700.75,Marketing,middle,Marketing Specialist,Grand Central Department Store
+Michael,Williams,Male,mwilliams@grandcentral.com,5500.30,IT Development,intern,Junior Clerk,Grand Central Department Store
+Sophia,Taylor,Female,staylor@grandcentral.com,4400.20,IT Development,junior,Client Relations Coordinator,Grand Central Department Store
+David,Wilson,Male,dwilson@grandcentral.com,51000.00,IT Development,senior,Full-stack Developer,Grand Central Department Store
+Olivia,Martinez,Female,omartinez@grandcentral.com,3200.45,Accounting,contract,Junior Bookkeeper,Grand Central Department Store
+Ethan,Anderson,Male,eanderson@grandcentral.com,6200.00,Finance,senior,Finance Analyst,Grand Central Department Store
+Mia,Clark,Female,mclark@grandcentral.com,4800.35,Operations,middle,Operations Coordinator,Grand Central Department Store
+John,Anderson,Male,janderson2@grandcentral.com,60000.00,Sales,management,Manager,Grand Central Department Store
+Sam,Johnson,Female,sjohnson2@grandcentral.com,3500.50,HR,management,Manager,Grand Central Department Store
+John,Brown,Male,jbrown@grandcentral.com,9000.00,Finance,management,Manager,Grand Central Department Store
+Emma,Brown,Female,ebrown2@grandcentral.com,2200.75,Marketing,junior,Marketing Specialist,Grand Central Department Store
+Max,Williams,Male,mwilliams2@grandcentral.com,5200.30,Technical Support,intern,Clerk,Grand Central Department Store
+Sonya,Taylor,Female,staylor2@grandcentral.com,4200.20,Customer Service,junior,Client Relations Coordinator,Grand Central Department Store
+Denis,Wilson,Male,dwilson2@grandcentral.com,61000.00,IT Development,management,Manager,Grand Central Department Store
+Olga,Martinez,Female,omartinez2@grandcentral.com,3300.45,Accounting,contract,Junior Bookkeeper,Grand Central Department Store
+Ed,Anderson,Male,eanderson2@grandcentral.com,6200.00,Finance,senior,Finance Analyst,Grand Central Department Store
+Milla,Clark,Female,mclark2@grandcentral.com,4900.35,Operations,middle,Operations Coordinator,Grand Central Department Store
+Sophia,Lopez,Female,slopez@grandcentral.com,2200.00,Sales,junior,Sales Clerk,Grand Central Department Store
+Benjamin,Hill,Male,bhill@grandcentral.com,27000.00,Customer Service,management,Head Manager,Grand Central Department Store
+Jessica,Lee,Female,jlee@grandcentral.com,70000.00,IT Development,management,Senior Manager,Grand Central Department Store
+Daniel,Walker,Male,dwalker@grandcentral.com,5300.20,Operations,intern,Office Worker,Grand Central Department Store
+Eleanor,Harris,Female,eharris@grandcentral.com,3100.75,Marketing,contract,Marketing Specialist,Grand Central Department Store
+Chris,Evans,Male,cevans@grandcentral.com,2200.50,Customer Service,intern,Client Relations Coordinator,Grand Central Department Store
+Alex,Turner,Male,aturner@grandcentral.com,4800.40,IT Development,middle,Backend Developer,Grand Central Department Store
+Nina,Holmes,Female,nholmes@grandcentral.com,3300.65,Finance,contract,Finance Analyst,Grand Central Department Store
+Victor,Stewart,Male,vstewart@grandcentral.com,5500.80,IT Development,senior,Frontend Developer,Grand Central Department Store
+Lucy,Bennett,Female,lbennett@grandcentral.com,2700.45,HR,junior,HR Specialist,Grand Central Department Store
+Oscar,Reed,Male,oreed@grandcentral.com,4400.35,Accounting,contract,Bookkeeper,Grand Central Department Store
+Lana,Parker,Female,lparker@grandcentral.com,6200.00,Marketing,senior,AI Developer,Grand Central Department Store
+Harry,Cooper,Male,hcooper@grandcentral.com,5100.90,Sales,junior,Sales Clerk,Grand Central Department Store
+Isla,Fisher,Female,ifisher@grandcentral.com,4100.60,Operations,middle,Operations Coordinator,Grand Central Department Store
+Leo,Wright,Male,lwright@grandcentral.com,8000.25,IT Development,senior,DevOps Engineer,Grand Central Department Store
+Eva,Mitchell,Female,emitchell@grandcentral.com,2500.45,Customer Service,junior,Client Relations Specialist,Grand Central Department Store
+Ryan,Carter,Male,rcarter@grandcentral.com,5200.80,Operations,middle,Operations Specialist,Grand Central Department Store
+Holly,Brooks,Female,hbrooks@grandcentral.com,2800.35,IT Development,junior,Mobile Developer,Grand Central Department Store
+Daniel,Gray,Male,dgray@grandcentral.com,3500.60,Sales,management,Team Lead,Grand Central Department Store
+Layla,Jones,Female,ljones@grandcentral.com,1400.50,Finance,junior,Bookkeeper,Grand Central Department Store
+Sebastian,Morgan,Male,smorgan@grandcentral.com,2900.40,HR,contract,HR Analyst,Grand Central Department Store
+Elena,Scott,Female,escott@grandcentral.com,4600.30,IT Development,senior,Full-stack Developer,Grand Central Department Store
+Finn,Walker,Male,fwalker@grandcentral.com,2200.45,Customer Service,intern,Support Clerk,Grand Central Department Store
+Amelia,King,Female,aking@grandcentral.com,5200.60,Marketing,middle,Marketing Specialist,Grand Central Department Store
