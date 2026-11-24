@@ -10,13 +10,13 @@ package algorithmsca2_departmentstore.model;
  */
 //the options that shown in the main menu
 public enum MenuOption {
-    SORT(label: "SORT"),
-    SEARCH(label: "Search"),
-    ADD_RECORDS(label: "ADD RECORDS"),
-    CREATE_BINARY_TREE(lable: "CREATE A BINARY TREE"),
+    SORT("SORT"),
+    SEARCH("SEARCH"),
+    ADD_RECORDS("ADD RECORDS"),
+    CREATE_BINARY_TREE("CREATE A BINARY TREE"),
     EXIT("EXIT");
 
-    private String label;
+    private final String label;
 
     MenuOption(String label) {
         this.label = label;
