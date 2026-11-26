@@ -8,35 +8,44 @@ package algorithmsca2_departmentstore.model;
  *
  * @author Dylan
  */
-//the departments in the store
+// departments of the department store
 public enum Department {
-    SALES ("Sales"),
-    MARKETING ("Marketing"),
-    CUSTOMER_SERVICE ("Customer Service"),
-    OPERATIONS ("Operations"),
-    HUMAN_RESOURCES ("HR"),
-    FINANCE ("Finance"),
-    IT_DEPARTMENT ("IT"),
-    ACCOUNTING ("Accounting"),
-    TECHNICAL_SUPPORT ("Technical Support");
-    
-    private final String displayName;
-    
-    Department (String displayName) {
+    SALES("Sales"),
+    CUSTOMER_SERVICE("Customer Service"),
+    OPERATIONS("Operations"),
+    HR("HR"),
+    FINANCE("Finance"),
+    MARKETING("Marketing"),
+    IT_DEVELOPMENT("IT Development"),
+    ACCOUNTING("Accounting"),
+    TECHNICAL_SUPPORT("Technical Support");
+
+    private String displayName;
+
+    Department(String displayName) {
         this.displayName = displayName;
-}
-    
+    }
+
     public String getDisplayName() {
         return displayName;
     }
-   
-    //return null if the number is not a valid department
-    public static Department fromChoice (int choice) {
+
+    // number from the menu (1 - 9) to the enum, null if the number does not exist
+    public static Department fromChoice(int choice) {
         Department[] departments = Department.values();
         if (choice >= 1 && choice <= departments.length) {
-            return departments[choice -1];
+            return departments[choice - 1];
         }
         return null;
     }
-    
+
+    // text from the file to the enum, null if the department does not exist
+    public static Department fromName(String name) {
+        for (Department department : Department.values()) {
+            if (department.displayName.equalsIgnoreCase(name.trim())) {
+                return department;
+            }
+        }
+        return null;
+    }
 }
