@@ -8,15 +8,19 @@ package algorithmsca2_departmentstore.model;
  *
  * @author Dylan
  */
-//one node of the employee tree
+// one node of the employee binary tree
 public class TreeNode {
 
-    private Employee data;
+    private Employee data;    // the node stores Name, Manager Type and Department (inside Employee)
     private TreeNode left;
     private TreeNode right;
+    private int level;        // root is level 1
 
     public TreeNode(Employee data) {
         this.data = data;
+        this.left = null;
+        this.right = null;
+        this.level = 1;
     }
 
     public Employee getData() {
@@ -27,15 +31,23 @@ public class TreeNode {
         return left;
     }
 
-    public TreeNode getRight() {
-        return right;
-    }
-
     public void setLeft(TreeNode left) {
         this.left = left;
     }
 
+    public TreeNode getRight() {
+        return right;
+    }
+
     public void setRight(TreeNode right) {
         this.right = right;
+    }
+
+    public int getLevel() {
+        return level;
+    }
+
+    public void setLevel(int level) {
+        this.level = level;
     }
 }
